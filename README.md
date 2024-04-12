@@ -1,6 +1,11 @@
 # my_application
 
-A flutter application which reads the use details
+A flutter application which reads the use details .The state management used by the application is Getx which is easier to use 
+
+
+
+
+//for running the code you can use flutter run command on the terminal or use the IDLE's like vscode,android studio use the run with/or without debugging methods
 
 ## Getting Started
 
